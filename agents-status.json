@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T13:04:39Z",
+  "updatedAt": "2026-06-20T14:04:49Z",
   "agents": [
     {
       "name": "CompMom crash diagnostics",
@@ -13,7 +13,7 @@
     {
       "name": "Ops Control collector",
       "status": "active",
-      "lastRun": "2026-06-20T13:04:30Z",
+      "lastRun": "2026-06-20T14:04:41Z",
       "cadence": "Hourly",
       "venture": "Personal",
       "kind": "Scheduled task",
