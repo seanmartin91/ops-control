@@ -1,41 +1,122 @@
 {
-  "updatedAt": "2026-06-20T19:04:52Z",
+  "updatedAt": "2026-06-20T19:27:02Z",
   "agents": [
     {
-      "name": "CompMom crash diagnostics",
-      "status": "error",
-      "lastRun": "2026-06-20T06:53:47Z",
-      "cadence": "On push",
-      "venture": "App Dev",
-      "kind": "Agent",
-      "notes": "iOS 26 Hermes bug surfaced again"
+      "name": "Daily Pinterest pins",
+      "status": "active",
+      "lastRun": "2026-06-20T13:07:03Z",
+      "cadence": "Daily \u00b7 9:07am",
+      "team": "Storefront / Affiliate",
+      "kind": "Automation",
+      "notes": "multi-channel affiliate publisher"
+    },
+    {
+      "name": "Adapting Services daily content",
+      "status": "active",
+      "lastRun": "2026-06-20T11:00:39Z",
+      "cadence": "Daily \u00b7 7:00am",
+      "team": "Growth / Marketing",
+      "kind": "Automation",
+      "notes": "content package + Descript draft"
+    },
+    {
+      "name": "Daily LinkedIn AI post",
+      "status": "active",
+      "lastRun": "2026-06-20T13:05:02Z",
+      "cadence": "Daily \u00b7 9:05am",
+      "team": "Growth / Marketing",
+      "kind": "Automation",
+      "notes": "queued to Buffer"
+    },
+    {
+      "name": "Daily X AI post",
+      "status": "active",
+      "lastRun": "2026-06-20T15:09:26Z",
+      "cadence": "Daily \u00b7 11:09am",
+      "team": "Growth / Marketing",
+      "kind": "Automation",
+      "notes": "queued to Buffer"
+    },
+    {
+      "name": "Daily TikTok script",
+      "status": "active",
+      "lastRun": "2026-06-20T12:03:29Z",
+      "cadence": "Daily \u00b7 8:03am",
+      "team": "Growth / Marketing",
+      "kind": "Automation",
+      "notes": "film-ready concept delivered"
+    },
+    {
+      "name": "Post Adapting Services video",
+      "status": "idle",
+      "lastRun": "",
+      "cadence": "On demand",
+      "team": "Growth / Marketing",
+      "kind": "Automation",
+      "notes": "run after voice is rendered"
+    },
+    {
+      "name": "Amazon flip scanner",
+      "status": "active",
+      "lastRun": "2026-06-20T16:05:38Z",
+      "cadence": "Daily \u00b7 12:05pm",
+      "team": "Storefront / Affiliate",
+      "kind": "Automation",
+      "notes": "ranked research + drafts"
+    },
+    {
+      "name": "Buffer to-do publisher",
+      "status": "active",
+      "lastRun": "2026-06-20T14:08:01Z",
+      "cadence": "Daily \u00b7 10:08am",
+      "team": "Storefront / Affiliate",
+      "kind": "Automation",
+      "notes": "publishes queued ideas"
+    },
+    {
+      "name": "CompMom Clerk DNS check",
+      "status": "active",
+      "lastRun": "2026-06-20T18:07:56Z",
+      "cadence": "Every 2h",
+      "team": "App Dev",
+      "kind": "Scheduled task",
+      "notes": "Clerk prod DNS propagation"
+    },
+    {
+      "name": "Adapting Services weekly prospecting",
+      "status": "active",
+      "lastRun": "2026-06-15T12:03:18Z",
+      "cadence": "Weekly \u00b7 Mon",
+      "team": "Growth / Marketing",
+      "kind": "Skill",
+      "notes": "Canadian lead sourcing + ICP"
+    },
+    {
+      "name": "Adapting Services Tier A sender",
+      "status": "active",
+      "lastRun": "2026-06-19T13:02:51Z",
+      "cadence": "Weekdays \u00b7 9:03am",
+      "team": "Growth / Marketing",
+      "kind": "Automation",
+      "notes": "3-touch Outlook cadence"
+    },
+    {
+      "name": "Early Doors conversion check",
+      "status": "idle",
+      "lastRun": "",
+      "cadence": "Weekly \u00b7 Mon",
+      "team": "Storefront / Affiliate",
+      "kind": "Scheduled task",
+      "notes": "store funnel + orders"
     },
     {
       "name": "Ops Control collector",
       "status": "active",
-      "lastRun": "2026-06-20T19:04:44Z",
+      "lastRun": "2026-06-20T19:04:23Z",
       "cadence": "Hourly",
-      "venture": "Personal",
+      "team": "Admin / Ops",
       "kind": "Scheduled task",
-      "notes": "compiling + publishing the agent feed"
-    },
-    {
-      "name": "Order fulfillment triage",
-      "status": "active",
-      "lastRun": "2026-06-20T06:53:47Z",
-      "cadence": "Daily \u00b7 7:00am",
-      "venture": "Shopify",
-      "kind": "Plugin",
-      "notes": "No risky orders"
-    },
-    {
-      "name": "Pipeline tracker refresh",
-      "status": "active",
-      "lastRun": "2026-06-20T09:53:47Z",
-      "cadence": "Daily \u00b7 8:00am",
-      "venture": "Tricord",
-      "kind": "Automation",
-      "notes": "41 deals synced"
+      "notes": "compiles + publishes the feed"
     }
   ]
 }
