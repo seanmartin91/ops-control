@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T11:18:11Z",
+  "updatedAt": "2026-06-20T12:04:41Z",
   "agents": [
     {
       "name": "CompMom crash diagnostics",
@@ -13,12 +13,11 @@
     {
       "name": "Ops Control collector",
       "status": "active",
-      "lastRun": "2026-06-20T11:18:11Z",
+      "lastRun": "2026-06-20T12:04:32Z",
       "cadence": "Hourly",
       "venture": "Personal",
       "kind": "Scheduled task",
-      "team": "Admin / Ops",
-      "notes": "compiled + published the agent feed"
+      "notes": "compiling + publishing the agent feed"
     },
     {
       "name": "Order fulfillment triage",
