@@ -1,0 +1,8 @@
+{
+  "updatedAt": "2026-06-18T08:00:00Z",
+  "agents": [
+    { "name": "Pipeline tracker refresh", "status": "active", "lastRun": "2026-06-18T08:00:00Z", "cadence": "Daily · 8:00am", "venture": "Tricord", "kind": "Automation", "notes": "32 deals synced" },
+    { "name": "Order fulfillment triage", "status": "active", "lastRun": "2026-06-18T07:00:00Z", "cadence": "Daily · 7:00am", "venture": "Shopify", "kind": "Plugin", "notes": "No risky orders today" },
+    { "name": "CompMom crash diagnostics", "status": "error", "lastRun": "2026-06-17T22:00:00Z", "cadence": "On push", "venture": "App Dev", "kind": "Agent", "notes": "iOS 26 Hermes bug surfaced again" }
+  ]
+}
