@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T17:04:55Z",
+  "updatedAt": "2026-06-21T18:04:53Z",
   "agents": [
     {
       "name": "Adapting Services daily content",
@@ -8,7 +8,7 @@
       "cadence": "Daily \u00b7 7:00am",
       "team": "Growth / Marketing",
       "kind": "Automation",
-      "notes": "no heartbeat in 30h \u2014 content package + Descript draft"
+      "notes": "no heartbeat in 31h \u2014 content package + Descript draft"
     },
     {
       "name": "Adapting Services Tier A sender",
@@ -48,21 +48,21 @@
     },
     {
       "name": "Daily LinkedIn AI post",
-      "status": "active",
+      "status": "error",
       "lastRun": "2026-06-20T13:05:02Z",
       "cadence": "Daily \u00b7 9:05am",
       "team": "Growth / Marketing",
       "kind": "Automation",
-      "notes": "queued to Buffer"
+      "notes": "no heartbeat in 28h \u2014 queued to Buffer"
     },
     {
       "name": "Daily Pinterest pins",
-      "status": "active",
+      "status": "error",
       "lastRun": "2026-06-20T13:07:03Z",
       "cadence": "Daily \u00b7 9:07am",
       "team": "Storefront / Affiliate",
       "kind": "Automation",
-      "notes": "multi-channel affiliate publisher"
+      "notes": "no heartbeat in 28h \u2014 multi-channel affiliate publisher"
     },
     {
       "name": "Daily TikTok script",
@@ -71,7 +71,7 @@
       "cadence": "Daily \u00b7 8:03am",
       "team": "Growth / Marketing",
       "kind": "Automation",
-      "notes": "no heartbeat in 29h \u2014 film-ready concept delivered"
+      "notes": "no heartbeat in 30h \u2014 film-ready concept delivered"
     },
     {
       "name": "Daily X AI post",
@@ -94,7 +94,7 @@
     {
       "name": "Ops Control collector",
       "status": "active",
-      "lastRun": "2026-06-21T17:04:48Z",
+      "lastRun": "2026-06-21T18:04:45Z",
       "cadence": "Hourly",
       "venture": "Personal",
       "kind": "Scheduled task",
