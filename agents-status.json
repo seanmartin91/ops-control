@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-21T14:04:53Z",
+  "updatedAt": "2026-06-21T15:04:55Z",
   "agents": [
     {
       "name": "Adapting Services daily content",
-      "status": "active",
+      "status": "error",
       "lastRun": "2026-06-20T11:00:39Z",
       "cadence": "Daily \u00b7 7:00am",
       "team": "Growth / Marketing",
       "kind": "Automation",
-      "notes": "content package + Descript draft"
+      "notes": "no heartbeat in 28h \u2014 content package + Descript draft"
     },
     {
       "name": "Adapting Services Tier A sender",
@@ -94,7 +94,7 @@
     {
       "name": "Ops Control collector",
       "status": "active",
-      "lastRun": "2026-06-21T14:04:45Z",
+      "lastRun": "2026-06-21T15:04:49Z",
       "cadence": "Hourly",
       "venture": "Personal",
       "kind": "Scheduled task",
