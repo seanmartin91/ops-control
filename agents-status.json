@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T04:04:46Z",
+  "updatedAt": "2026-06-21T05:04:53Z",
   "agents": [
     {
       "name": "Adapting Services daily content",
@@ -94,7 +94,7 @@
     {
       "name": "Ops Control collector",
       "status": "active",
-      "lastRun": "2026-06-21T04:04:39Z",
+      "lastRun": "2026-06-21T05:04:42Z",
       "cadence": "Hourly",
       "venture": "Personal",
       "kind": "Scheduled task",
