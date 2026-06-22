@@ -1,95 +1,25 @@
 {
-  "updatedAt": "2026-06-22T14:43:37Z",
+  "updatedAt": "2026-06-22T19:04:50Z",
   "agents": [
     {
-      "name": "Daily Pinterest pins",
-      "status": "active",
-      "lastRun": "2026-06-20T13:07:03Z",
-      "cadence": "Daily \u00b7 9:07am",
-      "venture": "Personal",
-      "team": "Storefront / Affiliate",
-      "kind": "Automation",
-      "notes": "multi-channel affiliate publisher"
-    },
-    {
       "name": "Adapting Services daily content",
-      "status": "active",
+      "status": "error",
       "lastRun": "2026-06-20T11:00:39Z",
       "cadence": "Daily \u00b7 7:00am",
       "venture": "Adapting Services",
       "team": "Growth / Marketing",
       "kind": "Automation",
-      "notes": "content package + Descript draft"
+      "notes": "no heartbeat in 56h \u2014 content package + Descript draft"
     },
     {
-      "name": "Daily LinkedIn AI post",
+      "name": "Adapting Services Tier A sender",
       "status": "active",
-      "lastRun": "2026-06-20T13:05:02Z",
-      "cadence": "Daily \u00b7 9:05am",
+      "lastRun": "2026-06-19T13:02:51Z",
+      "cadence": "Weekdays \u00b7 9:03am",
       "venture": "Adapting Services",
       "team": "Growth / Marketing",
       "kind": "Automation",
-      "notes": "queued to Buffer"
-    },
-    {
-      "name": "Daily X AI post",
-      "status": "active",
-      "lastRun": "2026-06-20T15:09:26Z",
-      "cadence": "Daily \u00b7 11:09am",
-      "venture": "Adapting Services",
-      "team": "Growth / Marketing",
-      "kind": "Automation",
-      "notes": "queued to Buffer"
-    },
-    {
-      "name": "Daily TikTok script",
-      "status": "active",
-      "lastRun": "2026-06-20T12:03:29Z",
-      "cadence": "Daily \u00b7 8:03am",
-      "venture": "Adapting Services",
-      "team": "Growth / Marketing",
-      "kind": "Automation",
-      "notes": "film-ready concept delivered"
-    },
-    {
-      "name": "Post Adapting Services video",
-      "status": "idle",
-      "lastRun": "",
-      "cadence": "On demand",
-      "venture": "Adapting Services",
-      "team": "Growth / Marketing",
-      "kind": "Automation",
-      "notes": "run after voice is rendered"
-    },
-    {
-      "name": "Amazon flip scanner",
-      "status": "active",
-      "lastRun": "2026-06-20T16:05:38Z",
-      "cadence": "Daily \u00b7 12:05pm",
-      "venture": "Personal",
-      "team": "Storefront / Affiliate",
-      "kind": "Automation",
-      "notes": "ranked research + drafts"
-    },
-    {
-      "name": "Buffer to-do publisher",
-      "status": "active",
-      "lastRun": "2026-06-20T14:08:01Z",
-      "cadence": "Daily \u00b7 10:08am",
-      "venture": "Personal",
-      "team": "Storefront / Affiliate",
-      "kind": "Automation",
-      "notes": "publishes queued ideas"
-    },
-    {
-      "name": "CompMom Clerk DNS check",
-      "status": "active",
-      "lastRun": "2026-06-20T18:07:56Z",
-      "cadence": "Every 2h",
-      "venture": "App Dev",
-      "team": "App Dev",
-      "kind": "Scheduled task",
-      "notes": "Clerk prod DNS propagation"
+      "notes": "3-touch Outlook cadence"
     },
     {
       "name": "Adapting Services weekly prospecting",
@@ -102,14 +32,64 @@
       "notes": "Canadian lead sourcing + ICP"
     },
     {
-      "name": "Adapting Services Tier A sender",
+      "name": "Amazon flip scanner",
+      "status": "error",
+      "lastRun": "2026-06-20T16:05:38Z",
+      "cadence": "Daily \u00b7 12:05pm",
+      "venture": "Personal",
+      "team": "Storefront / Affiliate",
+      "kind": "Automation",
+      "notes": "no heartbeat in 50h \u2014 ranked research + drafts"
+    },
+    {
+      "name": "CompMom Clerk DNS check",
       "status": "active",
-      "lastRun": "2026-06-19T13:02:51Z",
-      "cadence": "Weekdays \u00b7 9:03am",
+      "lastRun": "2026-06-20T18:07:56Z",
+      "cadence": "Every 2h",
+      "venture": "App Dev",
+      "team": "App Dev",
+      "kind": "Scheduled task",
+      "notes": "Clerk prod DNS propagation"
+    },
+    {
+      "name": "Daily LinkedIn AI post",
+      "status": "error",
+      "lastRun": "2026-06-20T13:05:02Z",
+      "cadence": "Daily \u00b7 9:05am",
       "venture": "Adapting Services",
       "team": "Growth / Marketing",
       "kind": "Automation",
-      "notes": "3-touch Outlook cadence"
+      "notes": "no heartbeat in 53h \u2014 queued to Buffer"
+    },
+    {
+      "name": "Daily Pinterest pins",
+      "status": "error",
+      "lastRun": "2026-06-20T13:07:03Z",
+      "cadence": "Daily \u00b7 9:07am",
+      "venture": "Personal",
+      "team": "Storefront / Affiliate",
+      "kind": "Automation",
+      "notes": "no heartbeat in 53h \u2014 multi-channel affiliate publisher"
+    },
+    {
+      "name": "Daily TikTok script",
+      "status": "error",
+      "lastRun": "2026-06-20T12:03:29Z",
+      "cadence": "Daily \u00b7 8:03am",
+      "venture": "Adapting Services",
+      "team": "Growth / Marketing",
+      "kind": "Automation",
+      "notes": "no heartbeat in 55h \u2014 film-ready concept delivered"
+    },
+    {
+      "name": "Daily X AI post",
+      "status": "error",
+      "lastRun": "2026-06-20T15:09:26Z",
+      "cadence": "Daily \u00b7 11:09am",
+      "venture": "Adapting Services",
+      "team": "Growth / Marketing",
+      "kind": "Automation",
+      "notes": "no heartbeat in 51h \u2014 queued to Buffer"
     },
     {
       "name": "Early Doors conversion check",
@@ -124,12 +104,31 @@
     {
       "name": "Ops Control collector",
       "status": "active",
-      "lastRun": "2026-06-20T19:04:23Z",
+      "lastRun": "2026-06-22T19:04:36Z",
       "cadence": "Hourly",
       "venture": "Personal",
-      "team": "Admin / Ops",
       "kind": "Scheduled task",
-      "notes": "compiles + publishes the feed"
+      "notes": "compiling + publishing the agent feed"
+    },
+    {
+      "name": "Post Adapting Services video",
+      "status": "idle",
+      "lastRun": "",
+      "cadence": "On demand",
+      "venture": "Adapting Services",
+      "team": "Growth / Marketing",
+      "kind": "Automation",
+      "notes": "run after voice is rendered"
+    },
+    {
+      "name": "Buffer to-do publisher",
+      "status": "error",
+      "lastRun": "2026-06-20T14:08:01Z",
+      "cadence": "Daily \u00b7 10:08am",
+      "venture": "Personal",
+      "team": "Storefront / Affiliate",
+      "kind": "Automation",
+      "notes": "no heartbeat in 52h \u2014 publishes queued ideas"
     }
   ]
 }
