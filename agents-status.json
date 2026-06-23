@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T00:04:43Z",
+  "updatedAt": "2026-06-23T01:04:47Z",
   "agents": [
     {
       "name": "Adapting Services daily content",
@@ -9,7 +9,7 @@
       "venture": "Adapting Services",
       "team": "Growth / Marketing",
       "kind": "Automation",
-      "notes": "no heartbeat in 61h \u2014 content package + Descript draft"
+      "notes": "no heartbeat in 62h \u2014 content package + Descript draft"
     },
     {
       "name": "Adapting Services Tier A sender",
@@ -39,7 +39,7 @@
       "venture": "Personal",
       "team": "Storefront / Affiliate",
       "kind": "Automation",
-      "notes": "no heartbeat in 55h \u2014 ranked research + drafts"
+      "notes": "no heartbeat in 56h \u2014 ranked research + drafts"
     },
     {
       "name": "CompMom Clerk DNS check",
@@ -59,7 +59,7 @@
       "venture": "Adapting Services",
       "team": "Growth / Marketing",
       "kind": "Automation",
-      "notes": "no heartbeat in 58h \u2014 queued to Buffer"
+      "notes": "no heartbeat in 59h \u2014 queued to Buffer"
     },
     {
       "name": "Daily Pinterest pins",
@@ -69,7 +69,7 @@
       "venture": "Personal",
       "team": "Storefront / Affiliate",
       "kind": "Automation",
-      "notes": "no heartbeat in 58h \u2014 multi-channel affiliate publisher"
+      "notes": "no heartbeat in 59h \u2014 multi-channel affiliate publisher"
     },
     {
       "name": "Daily TikTok script",
@@ -79,7 +79,7 @@
       "venture": "Adapting Services",
       "team": "Growth / Marketing",
       "kind": "Automation",
-      "notes": "no heartbeat in 60h \u2014 film-ready concept delivered"
+      "notes": "no heartbeat in 61h \u2014 film-ready concept delivered"
     },
     {
       "name": "Daily X AI post",
@@ -89,7 +89,7 @@
       "venture": "Adapting Services",
       "team": "Growth / Marketing",
       "kind": "Automation",
-      "notes": "no heartbeat in 56h \u2014 queued to Buffer"
+      "notes": "no heartbeat in 57h \u2014 queued to Buffer"
     },
     {
       "name": "Early Doors conversion check",
@@ -104,7 +104,7 @@
     {
       "name": "Ops Control collector",
       "status": "active",
-      "lastRun": "2026-06-23T00:04:41Z",
+      "lastRun": "2026-06-23T01:04:37Z",
       "cadence": "Hourly",
       "venture": "Personal",
       "kind": "Scheduled task",
@@ -128,7 +128,7 @@
       "venture": "Personal",
       "team": "Storefront / Affiliate",
       "kind": "Automation",
-      "notes": "no heartbeat in 57h \u2014 publishes queued ideas"
+      "notes": "no heartbeat in 58h \u2014 publishes queued ideas"
     }
   ]
 }
